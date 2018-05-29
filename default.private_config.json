@@ -1,0 +1,32 @@
+{
+	"bugsnag_key": "ae7bc49d1285848342342bb5c321a2cf",
+	"client_ids": {
+		"iOS": "medimodo",
+		"Android": "medimodo",
+		"Web": "medimodo",
+		"Chrome": "medimodo",
+		"Windows": "medimodo"
+	},
+	"client_secrets": {
+		"iOS": "iGckcfSAwlz6N3fNIahMo1c4kBJZcMm7",
+		"Android": "iGckcfSAwlz6N3fNIahMo1c4kBJZcMm7",
+		"Web": "iGckcfSAwlz6N3fNIahMo1c4kBJZcMm7",
+		"Chrome": "iGckcfSAwlz6N3fNIahMo1c4kBJZcMm7",
+		"Windows": "iGckcfSAwlz6N3fNIahMo1c4kBJZcMm7"
+	},
+	"FACEBOOK_APP_ID": "225078261031461",
+	"FACEBOOK_APP_NAME": "QuantiModo",
+	"REVERSED_CLIENT_ID": "com.googleusercontent.apps.1052648855194-djmit92q5bbglkontak0vdc7lafupt0d",
+	"FOURSQUARE_CLIENT_ID": "JTFGDAKRU5T0WHEUT0K0JFAKYUDJRM22M1IVE3HI04EGMECU",
+	"FOURSQUARE_CLIENT_SECRET": "VUPPYPJYJQO04XYNG5DSDJZR2BQ0XWW5OWCEEYTFOOKOY1PY",
+	"GOOGLE_MAPS_API_KEY": "AIzaSyCKicUHwJwH56bXjaKXkVVh2AqrOFE2Ogk",
+	"GCM_SENDER_ID": "1052648855194",
+	"GITHUB_CLIENT_ID": "f14dadca5a8c3bf301bf",
+	"WITHINGS_CLIENT_ID": "e4d28f45e14b8cc97e8c585127db3f2132e61ef0ed20be490e7b5f7417d",
+	"GOOGLE_CLIENT_ID": "1052648855194.apps.googleusercontent.com",
+	"JAWBONE_CLIENT_ID": "10RfjEgKr8U",
+	"RESCUETIME_CLIENT_ID": "b7961429bf2ca6fab2de92681e347ef6c253bf77c1a4c069d964110e43c1de24",
+	"SLICE_CLIENT_ID": "0d243e17",
+	"FITBIT_CLIENT_ID": "2298DS",
+	"RUNKEEPER_CLIENT_ID": "aa7233e520fa4b34aa5f9c3f27b22803"
+}

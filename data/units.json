@@ -4,12 +4,14 @@
   "categoryId": 6,
   "categoryName": "Miscellany",
   "conversionSteps": [],
+  "fillingValue": 0,
   "id": 29,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "% Recommended Daily Allowance",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "-4 to 4",
   "advanced": 1,
@@ -22,12 +24,14 @@
     "operation": "MULTIPLY",
     "value": 12.5
   }],
+  "fillingValue": null,
   "id": 25,
   "maximumValue": 4,
   "manualTracking": 0,
   "minimumValue": -4,
   "name": "-4 to 4 Rating",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "/1",
   "advanced": 1,
@@ -37,12 +41,14 @@
     "operation": "MULTIPLY",
     "value": 100
   }],
+  "fillingValue": null,
   "id": 20,
   "maximumValue": 1,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "0 to 1 Rating",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "/6",
   "advanced": 1,
@@ -52,12 +58,14 @@
     "operation": "MULTIPLY",
     "value": 20
   }],
+  "fillingValue": null,
   "id": 40,
   "maximumValue": 5,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "0 to 5 Rating",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "/10",
   "advanced": 0,
@@ -70,12 +78,14 @@
     "operation": "ADD",
     "value": -11.111111111111
   }],
+  "fillingValue": null,
   "id": 203,
   "maximumValue": 10,
   "manualTracking": 1,
   "minimumValue": 1,
   "name": "1 to 10 Rating",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "/5",
   "advanced": 0,
@@ -88,12 +98,14 @@
     "operation": "ADD",
     "value": -25
   }],
+  "fillingValue": null,
   "id": 10,
   "maximumValue": 5,
   "manualTracking": 1,
   "minimumValue": 1,
   "name": "1 to 5 Rating",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "applications",
   "advanced": 1,
@@ -103,36 +115,42 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": 0,
   "id": 14,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Applications",
-  "synonyms": ["Application"]
+  "synonyms": ["Application"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "bpm",
   "advanced": 1,
   "categoryId": 6,
   "categoryName": "Miscellany",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 26,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Beats per Minute",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "cal",
   "advanced": 1,
   "categoryId": 7,
   "categoryName": "Energy",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 39,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": null,
   "name": "Calories",
-  "synonyms": ["Calorie"]
+  "synonyms": ["Calorie"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "capsules",
   "advanced": 1,
@@ -142,12 +160,14 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": 0,
   "id": 27,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Capsules",
-  "synonyms": ["Capsule"]
+  "synonyms": ["Capsule"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "cm",
   "advanced": 1,
@@ -157,12 +177,14 @@
     "operation": "MULTIPLY",
     "value": 0.01
   }],
+  "fillingValue": null,
   "id": 31,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "Centimeters",
-  "synonyms": ["Centimeter"]
+  "synonyms": ["Centimeter"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "count",
   "advanced": 0,
@@ -172,36 +194,42 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": 0,
   "id": 23,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Count",
-  "synonyms": ["Ea", "Ct"]
+  "synonyms": ["Ea", "Ct"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "C",
   "advanced": 1,
   "categoryId": 11,
   "categoryName": "Temperature",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 46,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": null,
   "name": "Degrees Celsius",
-  "synonyms": ["Degrees Celsiu"]
+  "synonyms": ["Degrees Celsiu"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "degrees east",
   "advanced": 1,
   "categoryId": 6,
   "categoryName": "Miscellany",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 17,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": null,
   "name": "Degrees East",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "F",
   "advanced": 1,
@@ -214,36 +242,42 @@
     "operation": "MULTIPLY",
     "value": 0.55555555555556
   }],
+  "fillingValue": null,
   "id": 45,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": null,
   "name": "Degrees Fahrenheit",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "degrees north",
   "advanced": 1,
   "categoryId": 6,
   "categoryName": "Miscellany",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 18,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": null,
   "name": "Degrees North",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "$",
   "advanced": 1,
   "categoryId": 12,
   "categoryName": "Currency",
   "conversionSteps": [],
+  "fillingValue": 0,
   "id": 49,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": null,
   "name": "Dollars",
-  "synonyms": ["Dollar"]
+  "synonyms": ["Dollar"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "drops",
   "advanced": 1,
@@ -253,12 +287,14 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": 0,
   "id": 201,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Drops",
-  "synonyms": ["Drop"]
+  "synonyms": ["Drop"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "event",
   "advanced": 1,
@@ -268,12 +304,14 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": 0,
   "id": 41,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Event",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "ft",
   "advanced": 1,
@@ -283,12 +321,14 @@
     "operation": "MULTIPLY",
     "value": 0.3048
   }],
+  "fillingValue": 0,
   "id": 36,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Feet",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "g",
   "advanced": 0,
@@ -298,12 +338,14 @@
     "operation": "MULTIPLY",
     "value": 0.001
   }],
+  "fillingValue": 0,
   "id": 6,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Grams",
-  "synonyms": ["Gram"]
+  "synonyms": ["Gram"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "h",
   "advanced": 0,
@@ -313,12 +355,14 @@
     "operation": "MULTIPLY",
     "value": 3600
   }],
+  "fillingValue": 0,
   "id": 34,
   "maximumValue": 168,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Hours",
-  "synonyms": ["Hour"]
+  "synonyms": ["Hour"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "in",
   "advanced": 1,
@@ -328,24 +372,28 @@
     "operation": "MULTIPLY",
     "value": 0.0254
   }],
+  "fillingValue": 0,
   "id": 35,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Inches",
-  "synonyms": ["Inche"]
+  "synonyms": ["Inche"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "index",
   "advanced": 1,
   "categoryId": 6,
   "categoryName": "Miscellany",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 15,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "Index",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "yes/no",
   "advanced": 0,
@@ -355,36 +403,42 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": 0,
   "id": 19,
   "maximumValue": 1,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Yes/No",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "kcal",
   "advanced": 1,
   "categoryId": 7,
   "categoryName": "Energy",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 22,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": null,
   "name": "Kilocalories",
-  "synonyms": ["Kilocalorie"]
+  "synonyms": ["Kilocalorie"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "kg",
   "advanced": 1,
   "categoryId": 3,
   "categoryName": "Weight",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 5,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Kilograms",
-  "synonyms": ["Kilogram"]
+  "synonyms": ["Kilogram"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "km",
   "advanced": 1,
@@ -394,24 +448,28 @@
     "operation": "MULTIPLY",
     "value": 1000
   }],
+  "fillingValue": null,
   "id": 16,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "Kilometers",
-  "synonyms": ["Kilometer"]
+  "synonyms": ["Kilometer"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "m",
   "advanced": 1,
   "categoryId": 2,
   "categoryName": "Distance",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 3,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "Meters",
-  "synonyms": ["Meter"]
+  "synonyms": ["Meter"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "mcg",
   "advanced": 1,
@@ -421,24 +479,28 @@
     "operation": "MULTIPLY",
     "value": 0.000001
   }],
+  "fillingValue": 0,
   "id": 32,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Micrograms",
-  "synonyms": ["Microgram"]
+  "synonyms": ["Microgram"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "mg/dL",
   "advanced": 1,
   "categoryId": 6,
   "categoryName": "Miscellany",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 43,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Micrograms per decilitre",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "mi",
   "advanced": 1,
@@ -448,12 +510,14 @@
     "operation": "MULTIPLY",
     "value": 1609.34
   }],
+  "fillingValue": null,
   "id": 4,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "Miles",
-  "synonyms": ["Mile"]
+  "synonyms": ["Mile"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "mg",
   "advanced": 0,
@@ -463,12 +527,14 @@
     "operation": "MULTIPLY",
     "value": 0.000001
   }],
+  "fillingValue": 0,
   "id": 7,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Milligrams",
-  "synonyms": ["Milligram"]
+  "synonyms": ["Milligram"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "mL",
   "advanced": 0,
@@ -478,12 +544,14 @@
     "operation": "MULTIPLY",
     "value": 0.001
   }],
+  "fillingValue": 0,
   "id": 9,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Milliliters",
-  "synonyms": ["Milliliter"]
+  "synonyms": ["Milliliter"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "mm",
   "advanced": 1,
@@ -493,12 +561,14 @@
     "operation": "MULTIPLY",
     "value": 0.001
   }],
+  "fillingValue": null,
   "id": 48,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "Millimeters",
-  "synonyms": ["Millimeter"]
+  "synonyms": ["Millimeter"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "mmHg",
   "advanced": 1,
@@ -508,24 +578,28 @@
     "operation": "MULTIPLY",
     "value": 133.32239
   }],
+  "fillingValue": null,
   "id": 30,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "Millimeters Merc",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "s",
   "advanced": 1,
   "categoryId": 1,
   "categoryName": "Duration",
   "conversionSteps": [],
+  "fillingValue": 0,
   "id": 1,
   "maximumValue": 86400,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "Seconds",
-  "synonyms": ["Second"]
+  "synonyms": ["Second"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "min",
   "advanced": 0,
@@ -535,36 +609,42 @@
     "operation": "MULTIPLY",
     "value": 60
   }],
+  "fillingValue": 0,
   "id": 2,
   "maximumValue": 10080,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Minutes",
-  "synonyms": ["Minute"]
+  "synonyms": ["Minute"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "Pa",
   "advanced": 1,
   "categoryId": 10,
   "categoryName": "Pressure",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 47,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": null,
   "name": "Pascal",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "%",
   "advanced": 1,
   "categoryId": 5,
   "categoryName": "Rating",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 21,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": null,
   "name": "Percent",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "pieces",
   "advanced": 1,
@@ -574,12 +654,14 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": 0,
   "id": 28,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Pieces",
-  "synonyms": ["Piece"]
+  "synonyms": ["Piece"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "pills",
   "advanced": 1,
@@ -589,12 +671,14 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": 0,
   "id": 24,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Pills",
-  "synonyms": ["Pill"]
+  "synonyms": ["Pill"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "lb",
   "advanced": 1,
@@ -604,12 +688,14 @@
     "operation": "MULTIPLY",
     "value": 0.453592
   }],
+  "fillingValue": null,
   "id": 8,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Pounds",
-  "synonyms": ["lbs", "Pound"]
+  "synonyms": ["lbs", "Pound"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "puffs",
   "advanced": 1,
@@ -619,12 +705,14 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": 0,
   "id": 13,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Puffs",
-  "synonyms": ["Puff"]
+  "synonyms": ["Puff"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "serving",
   "advanced": 0,
@@ -634,12 +722,14 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": 0,
   "id": 44,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Serving",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "sprays",
   "advanced": 1,
@@ -649,12 +739,14 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": 0,
   "id": 50,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Sprays",
-  "synonyms": ["Spray"]
+  "synonyms": ["Spray"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "tablets",
   "advanced": 1,
@@ -664,12 +756,14 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": 0,
   "id": 11,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Tablets",
-  "synonyms": ["Tablet"]
+  "synonyms": ["Tablet"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "torr",
   "advanced": 1,
@@ -679,12 +773,14 @@
     "operation": "MULTIPLY",
     "value": 133.322
   }],
+  "fillingValue": null,
   "id": 42,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": null,
   "name": "Torr",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "units",
   "advanced": 1,
@@ -694,24 +790,28 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": null,
   "id": 12,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Units",
-  "synonyms": ["Unit"]
+  "synonyms": ["Unit"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "/minute",
   "advanced": 1,
   "categoryId": 9,
   "categoryName": "Frequency",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 202,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "per Minute",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "ms",
   "advanced": 1,
@@ -721,24 +821,28 @@
     "operation": "MULTIPLY",
     "value": 0.001
   }],
+  "fillingValue": 0,
   "id": 204,
   "maximumValue": 864000000,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "Milliseconds",
-  "synonyms": ["Millisecond"]
+  "synonyms": ["Millisecond"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "L",
   "advanced": 1,
   "categoryId": 4,
   "categoryName": "Volume",
   "conversionSteps": [],
+  "fillingValue": 0,
   "id": 205,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Liters",
-  "synonyms": ["Liter"]
+  "synonyms": ["Liter"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "oz",
   "advanced": 1,
@@ -748,36 +852,42 @@
     "operation": "MULTIPLY",
     "value": 0.0295735
   }],
+  "fillingValue": 0,
   "id": 206,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Ounces",
-  "synonyms": ["Ounce"]
+  "synonyms": ["Ounce"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "IU",
   "advanced": 1,
   "categoryId": 6,
   "categoryName": "Miscellany",
   "conversionSteps": [],
+  "fillingValue": 0,
   "id": 207,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "International Units",
-  "synonyms": ["International Unit"]
+  "synonyms": ["International Unit"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "m/s",
   "advanced": 1,
   "categoryId": 9,
   "categoryName": "Frequency",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 208,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "Meters per Second",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "qt",
   "advanced": 1,
@@ -787,12 +897,14 @@
     "operation": "MULTIPLY",
     "value": 0.946353
   }],
+  "fillingValue": 0,
   "id": 209,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Quarts",
-  "synonyms": ["Quart"]
+  "synonyms": ["Quart"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "dose",
   "advanced": 1,
@@ -802,36 +914,42 @@
     "operation": "MULTIPLY",
     "value": 1
   }],
+  "fillingValue": 0,
   "id": 210,
   "maximumValue": null,
   "manualTracking": 1,
   "minimumValue": 0,
   "name": "Doses",
-  "synonyms": ["Dose"]
+  "synonyms": ["Dose"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "ppm",
   "advanced": 1,
   "categoryId": 6,
   "categoryName": "Miscellany",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 211,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "Parts per Million",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "dB",
   "advanced": 1,
   "categoryId": 6,
   "categoryName": "Miscellany",
   "conversionSteps": [],
+  "fillingValue": null,
   "id": 212,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "Decibels",
-  "synonyms": ["Decibel"]
+  "synonyms": ["Decibel"],
+  "lowerCaseSynonyms": null
 }, {
   "abbreviatedName": "mbar",
   "advanced": 1,
@@ -841,10 +959,43 @@
     "operation": "MULTIPLY",
     "value": 133.32239
   }],
+  "fillingValue": null,
   "id": 213,
   "maximumValue": null,
   "manualTracking": 0,
   "minimumValue": 0,
   "name": "Millibar",
-  "synonyms": []
+  "synonyms": [],
+  "lowerCaseSynonyms": null
+}, {
+  "abbreviatedName": "hPa",
+  "advanced": 1,
+  "categoryId": 10,
+  "categoryName": "Pressure",
+  "conversionSteps": [{
+    "operation": "MULTIPLY",
+    "value": 100
+  }],
+  "fillingValue": null,
+  "id": 214,
+  "maximumValue": null,
+  "manualTracking": 0,
+  "minimumValue": null,
+  "name": "Hectopascal ",
+  "synonyms": [],
+  "lowerCaseSynonyms": null
+}, {
+  "abbreviatedName": "mph",
+  "advanced": 1,
+  "categoryId": 6,
+  "categoryName": "Miscellany",
+  "conversionSteps": [],
+  "fillingValue": null,
+  "id": 215,
+  "maximumValue": null,
+  "manualTracking": 1,
+  "minimumValue": 0,
+  "name": "Miles per Hour",
+  "synonyms": [],
+  "lowerCaseSynonyms": null
 }]

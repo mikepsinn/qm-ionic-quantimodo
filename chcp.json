@@ -1,0 +1,11 @@
+{
+  "name": "MediModo",
+  "s3bucket": "qm-cordova-hot-code-push",
+  "s3region": "us-east-1",
+  "s3prefix": "medimodo/dev/",
+  "ios_identifier": "1115037060",
+  "android_identifier": "com.quantimodo.medimodo",
+  "update": "start",
+  "content_url": "https://qm-cordova-hot-code-push.s3.amazonaws.com/medimodo/dev",
+  "release": "2018.05.29-01.07.55"
+}

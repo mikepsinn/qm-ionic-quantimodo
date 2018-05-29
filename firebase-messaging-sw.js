@@ -66,6 +66,10 @@ function showNotification(pushData) {
         if(!pushData.title || pushData.title === "undefined"){
             qmLog.error("pushData.title undefined! pushData: "+JSON.stringify(pushData) + " notificationOptions: "+ JSON.stringify(notificationOptions));
         }
+        if(pushData.variableName){
+            pushData.title = pushData.variableName; // Exclude "Track" because it gets cut off
+            pushData.body = "Record " + pushData.variableName + " or click here for more options";
+        }
         self.registration.showNotification(pushData.title, notificationOptions);
     })
 }
@@ -129,7 +133,7 @@ self.addEventListener('notificationclick', function(event) {
     var basePath = '/ionic/Modo/www/index.html#/app/';
     var urlPathToOpen = basePath + 'reminders-inbox';
     if(event.action && event.action.indexOf("https://") !== -1){
-        event.action = event.action.replace('/src/', '/www/');
+        event.action = qm.stringHelper.replaceAll(event.action, '/src/', '/www/');
         var route = qm.stringHelper.getStringAfter(event.action, basePath);
         urlPathToOpen = basePath + route;
     }
