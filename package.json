@@ -22,7 +22,7 @@
     "bugsnag-sourcemaps": "1.0.3",
     "eslint": "^4.19.0",
     "event-stream": "^3.3.2",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "gulp": "3.9.1",
     "gulp-angular-templatecache": "1.9.1",
     "gulp-change": "^1.0.0",
